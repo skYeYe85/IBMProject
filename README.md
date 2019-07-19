@@ -10,7 +10,7 @@ Showing partial data of San Francisco [Emissions](https://data.sfgov.org/resourc
 * [JDK 11.0.4](https://www.computerbase.de/downloads/systemtools/entwicklung/java-se-development-kit/)
 * [Maven 3.6.1](https://maven.apache.org/download.cgi)
 * [Eclipse Spring Plugin 4.3.1](https://marketplace.eclipse.org/content/spring-tools-4-spring-boot-aka-spring-tool-suite-4)
-* [git 2.20.1] (https://git-scm.com/downloads)
+* [git 2.20.1](https://git-scm.com/downloads)
 
 ## Run Project and Examples
 
